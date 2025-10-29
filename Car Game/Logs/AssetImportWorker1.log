@@ -358,3 +358,4 @@ Received Import Request.
 Start importing Assets/Scenes/Prototype 1.unity using Guid(84729eeda748340d0955715b6a50b370) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4c0e1259ac535de51f24122c39758ae9') in 0.005358073 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
